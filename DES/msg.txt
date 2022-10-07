@@ -1,0 +1,1 @@
+Myself Sohan Das, wrote this whole OFB mode of encryption using the DES in C and finally got the success. Thank you very much to my Prof. Sabyasachi Karati for assigning such project work and compelled a lazy person to became successful.
